@@ -10,15 +10,28 @@ h3 {
 	text-align:center;
 	font-family: 'Racing Sans One', cursive;
 	color: black;
-	font-size: 3em; 
+	font-size: 3em;
 	text-shadow:0.5px 0.5px 0.5px #B03A2E;
 }
 h4{
 	text-align:center;
 	font-family: 'Racing Sans One', cursive;
 	color: black;
-	font-size: 2em; 
-	text-shadow:0.1px 0.1px 0.1 px #B03A2E;
+	font-size: 2em;
+	text-shadow:0.1px 0.1px 0.1px #B03A2E;
+}
+h5{
+		text-align: right;
+		font-family: 'Racing Sans One', cursive;
+		color: black;
+		font-size: 11pt;
+		text-shadow: 0.005px 0.005px 0.005px #B03A2E;
+}
+h6{
+		text-align: center;
+		font-family: 'Raleway', sans-serif;
+		color: black;
+		font-size: 16pt;
 }
 .about{
 	margin-top:255px;
@@ -31,7 +44,7 @@ h4{
 	font-family:'Raleway',sans-serif;
 	font-size:1.25em;
 }
-	
+
 }
 .mainpage,.mainpage1{
 	margin-left:50px;
@@ -84,7 +97,7 @@ ul{
 }
 
 .int{
-	
+
 	padding-left:50px;
 	width:400px;
 	font-family:'Raleway',sans-serif;
@@ -124,12 +137,11 @@ body{
 img{
 	float:right;
 	position:static;
-	
 }
 .map{
 	float:center;
 	position:relative;
-	
+
 }
 
 table{
@@ -164,7 +176,7 @@ thead{
 	 height: 50px;
 	 width:50px;
 }
-footer { 
+footer {
     display: block;
 }
 .new:first-letter{
@@ -201,3 +213,4 @@ input:focus{
 iframe{
 	padding-left:325px;
 }
+
